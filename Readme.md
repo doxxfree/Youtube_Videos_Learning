@@ -2,6 +2,6 @@
 
 # Hello its Mirza Awais here.
 
-## So i am watching a video on youtude from a channel calle freecodecamp.org
+## So I am watching a video on youtude from a channel called freecodecamp.org
 
-### After watching 1st topic i am going to implement it on a webpage, usinf VS code.
+### After watching 1st topic I am going to implement it on a webpage, using VS code.
